@@ -1,0 +1,1 @@
+sed -i "s/home\/images/meetelf\/home\/images/g"  `grep home\/images -r ./`
