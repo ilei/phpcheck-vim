@@ -1,4 +1,4 @@
-ubuntu系统vim下phpcheck拆件
+ubuntu系统vim下phpcheck插件
 =============
  PHP 语法检查插件
 
